@@ -1,16 +1,36 @@
-# xrp_tracker
+# XRP Crypto Value Tracker in MYR
 
-A new Flutter project.
+A Flutter mobile application that fetches and displays the **live price of XRP (Ripple)** in **Malaysian Ringgit (MYR)**. This project was developed for a WA Lab Assignment.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Preview
 
-A few resources to get you started if this is your first Flutter project:
+![XRP App Screenshot](assets/screenshot.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔎 Features
+
+- 📈 Displays **live XRP value in MYR**
+- 🔄 **Refresh button** to update price manually
+- 🧾 **About page** with app info and developer name
+- 🎨 Clean UI with background image and semi-transparent value box
+- 🌐 Fetches real-time data from public API
+
+---
+
+## ℹ️ About This App
+
+**App Name:** XRP Crypto Value Tracker in MYR  
+**Developer:** Muhammad Hakimie Bin Ahmad Zikri  
+**Matric Number:** 2023136019
+
+This app helps users to quickly view the **current price of XRP cryptocurrency** in **Malaysian Ringgit** using live internet data. It is mobile-friendly and responsive, designed with clarity and simplicity in mind.
+
+---
+
+## 🔗 API Used
+
+Data is fetched from:
+
