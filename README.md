@@ -6,7 +6,8 @@ A Flutter mobile application that fetches and displays the **live price of XRP (
 
 ## 📱 App Preview
 
-![XRP App Screenshot](assets/screenshot.png)
+![![image](https://github.com/user-attachments/assets/aa01a821-1661-4f5f-88b3-c08cf29101b9)
+](assets/screenshot.png)
 
 ---
 
