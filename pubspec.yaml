@@ -1,0 +1,33 @@
+name: xrp_tracker
+description: "A Flutter app to track live XRP (Ripple) prices in Malaysian Ringgit (MYR)."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/xrpback.jpg
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.jpg"
+
+
